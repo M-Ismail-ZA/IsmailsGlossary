@@ -140,7 +140,7 @@ Reference** (a beginner-friendly syntax guide), and **Getting Started**
 (environment setup for Windows/macOS/Linux). Hosting details will be added
 once finalized.
 
-## Paper — 🚧 In Progress
+## Paper 
 
 The full paper — *Ismail's Glossary: A Complete Navigation Index for
 Mathlib4* — will be added under `paper/`, as both `PAPER.md` (a Markdown
