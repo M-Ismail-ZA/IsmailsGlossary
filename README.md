@@ -57,10 +57,10 @@ IsmailsGlossary/
 ├── Ismails_Glossary_RAG.json       -- flat, embedding-ready export
 ├── ismails-glossary.skill          -- Claude Skill bundle
 ├── Ismails_Glossary_vMASTER.xlsx   -- static spreadsheet snapshot
-├── index.html                      -- interactive website [in progress]
+├── index.html                      -- interactive website [live]
 ├── paper/
-│   ├── PAPER.md                    -- Markdown edition [in progress]
-│   └── Ismails_Glossary_Paper.pdf  -- PDF edition [in progress]
+│   ├── PAPER.md                    -- Markdown edition
+│   └── Ismails_Glossary_Paper.pdf  -- PDF edition 
 ├── LICENSE-DATA
 └── LICENSE-CODE
 ```
@@ -130,9 +130,9 @@ next reader, which is worse than leaving the entry blank.
 - **Live, editable version:** [Google Sheets — Ismail's Glossary Master](https://docs.google.com/spreadsheets/d/1al-8A-JPK9JGD1zGWSBAixwIvG3wbWh7JFJuhCyhK_o/edit?usp=sharing) — open for anyone with Lean/Mathlib knowledge to comment on or propose changes.
 - **Static snapshot:** `Ismails_Glossary_vMASTER.xlsx` — a fixed, offline, citable copy of the spreadsheet as of the reference snapshot, for anyone who needs a stable copy rather than whatever the live sheet currently says.
 
-## Interactive Website — 🚧 In Progress
+## Interactive Website 
 
-A GitHub Pages site is planned with five sections: **Home** (project
+A GitHub Pages site is now live under https://m-ismail-za.github.io/IsmailsGlossary/ with five sections: **Home** (project
 overview), **Glossary** (a searchable, hoverable tree of the full Mathlib
 hierarchy with quick-copy import paths), **Atlas** (a visual map of all 32
 top-level domains, built for orientation rather than lookup), **Lean 4
@@ -143,7 +143,7 @@ once finalized.
 ## Paper 
 
 The full paper — *Ismail's Glossary: A Complete Navigation Index for
-Mathlib4* — will be added under `paper/`, as both `PAPER.md` (a Markdown
+Mathlib4* — added under `paper/`, as both `PAPER.md` (a Markdown
 edition, readable directly on GitHub) and the original PDF, so the paper
 remains available independent of Zenodo's continued availability.
 
