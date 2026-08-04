@@ -8,7 +8,10 @@
 Ismail's Glossary is a complete, human-readable navigation index for every
 one of Mathlib4's 9,150 modules — the mathematics library of the Lean 4
 proof assistant, and one of the largest libraries of formalized mathematics
-in existence. Every existing way of searching Mathlib — a declaration-name
+in existence. Originally hand-written by theoretical mathematician, Muhammed Ismail, 
+known for the Lean formalization of Ismail's Primitives, this resource was 
+created for the purpose of making Mathlib easier to understand for everyone.
+Every existing way of searching Mathlib — a declaration-name
 lookup, an in-editor tactic, a semantic search engine — presupposes that you
 already know, at least approximately, what you're looking for. None of them
 answer the question a newcomer actually asks: *I want to work with spectral
@@ -20,7 +23,7 @@ its similarly named neighbors.
 The full methodology, data design, and versioning rationale are documented
 in the accompanying paper (see [Paper](#paper) below).
 
-> **Independence note.** Ismail's Glossary is an independent,
+> **Independence note.** Ismail's Glossary, by Muhammed Ismail is an independent,
 > community-created resource. It is not an official product of the Lean
 > Focused Research Organization (Lean FRO) or the Mathlib community, and it
 > is not maintained by either — nor has its content been formally reviewed
