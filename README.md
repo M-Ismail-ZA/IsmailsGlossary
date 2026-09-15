@@ -249,23 +249,19 @@ Mathlib4 (v4.30) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.21192789
 
 ## Author
 
-Muhammed Ismail is an independent researcher based in South Africa,
-self-taught in mathematics, economics, and enough psychology to notice a
-pattern worth proving. This glossary isn't the main project — it's a
-byproduct of one.
+Muhammed Ismail is a theoretical mathematician based in South Africa,
+working on formal verification and decision theory under uncertainty, with
+companion work in economics and psychology. This glossary isn't the main
+project — it's a byproduct of one.
 
 In September 2025, while trying to understand his own decision-making,
 Ismail noticed a six-step pattern recurring no matter the decision's
-subject, and set out to prove it held generally. As an unaffiliated
-researcher, a result that size has no realistic route through traditional
-peer review — every claim would need its own domain specialist, and
-credentials aren't something an independent researcher can offer — so the
-proof was built in Lean 4 instead: a claim a kernel checks deterministically,
-without first needing to check the author. Learning Mathlib well enough to
-write that proof — ~12,700 lines, published separately as *Ismail's
-Primitives* (see [Related work](#related-work)) — is what produced this
-glossary: a byproduct of the learning, released as a resource in its own
-right.
+subject, and set out to prove it held generally. The proof was formalized
+in Lean 4 — a claim the kernel checks deterministically. Learning Mathlib
+well enough to write that proof — ~12,700 lines, published separately as
+*Ismail's Primitives* (see [Related work](#related-work)) — is what
+produced this glossary: a byproduct of the learning, released as a resource
+in its own right.
 
 The full background is on the website's
 [About Ismail](https://m-ismail-za.github.io/IsmailsGlossary/) page.
