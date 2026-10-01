@@ -191,8 +191,8 @@ decision-making under uncertainty — ~12,700 lines, zero `sorry`, zero
 - Repository: [github.com/M-Ismail-ZA/IsmailsPrimitives](https://github.com/M-Ismail-ZA/IsmailsPrimitives)
 - Paper: *Ismail's Primitives: A Unified Functional Theory of Necessity,
   Independence, and Sequential Dependence in Adaptive Decision Systems*,
-  Zenodo, V6.1 (2026).
-  DOI: [10.5281/zenodo.21177368](https://doi.org/10.5281/zenodo.21177368)
+  Zenodo, V6.2 (2026).
+  DOI: [10.5281/zenodo.23080967](https://doi.org/10.5281/zenodo.23080967)
 
 ### Extending Ismail's Primitives
 
